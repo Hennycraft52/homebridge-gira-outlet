@@ -1,0 +1,28 @@
+                                                    
+{
+  "name": "homebridge-gira-outlet",
+  "version": "1.0.0",
+  "description": "Ein Homebridge-Plugin zur Integration von Gira HomeServer gesteuerten Lampen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test Message! Plugin is funktionell!"
+  },
+  "keywords": ["homebridge", "homebridge-plugin", "gira", "homekit", "outlet"],
+  "author": "hennycraft",
+  "license": "MIT",
+  "dependencies": {
+    "axios": ">1.0.1"
+
+  },
+  "engines": {
+    "homebridge": ">=1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hennycraft52/homebridge-gira-outlet"
+  },
+  "bugs": {
+    "url": "https://github.com/Hennycraft52/homebridge-gira-outlet/issues"
+  },
+  "homepage": "https://github.com/Hennycraft52/homebridge-gira-outlet#readme"
+}
