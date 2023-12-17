@@ -1,7 +1,7 @@
                                                     
 {
   "name": "homebridge-gira-outlet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ein Homebridge-Plugin zur Integration von Gira HomeServer gesteuerten Lampen.",
   "main": "index.js",
   "scripts": {
